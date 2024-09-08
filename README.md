@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Desnging an Development
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on a open source project
-- 📫 Reach me on https://saeed-wx-pk.github.io/saeed-pk
+- 📫 Reach me on https://saeed-pk.vercel.app
 
 
 <!---
